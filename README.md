@@ -31,3 +31,18 @@ CNN model is the best model with an accuracy score of about 76%
 ## Conclusion
 
 The best and final model we found based on accuracy score was our Convolutional Neural Network (CNN) model. This model has an accuracy score of about 76%. We would recommend that the hospital use this model to feed chest x-rays so that a radiologist can use the model's prediction to help determine a diagnosis of pneumonia or not.
+
+## For More Information
+
+See the full analysis in the [Jupyter Notebook](seasonal_flu_vaccine_analysis.ipynb) or review [Presentation](seasonal_flu_vaccine_presentation.pdf)
+
+## Repository Structure
+
+```
+├── data
+├── images
+├── .gitignore
+├── README.md
+├── chest_xray_analysis
+└── chest_xray_presentation
+```
