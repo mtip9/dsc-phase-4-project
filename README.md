@@ -34,7 +34,7 @@ The best and final model we found based on accuracy score was our Convolutional 
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](seasonal_flu_vaccine_analysis.ipynb) or review [Presentation](seasonal_flu_vaccine_presentation.pdf)
+See the full analysis in the [Jupyter Notebook](chest_xray_analysis.ipynb) or review [Presentation](seasonal_flu_vaccine_presentation.pdf)
 
 ## Repository Structure
 
