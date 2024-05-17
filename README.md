@@ -18,6 +18,6 @@ The data used in this project comes from the Guangzhou Women and Children's Medi
 
 Utilizing and iterating through deep neural networks to find the most accurate model.
 
-![normal_chest_xray](images/seasonal_vaccine_proportion.png)
+![normal_chest_xray](images/normal_chest_xray.png)
 
 ![pneumonia_chest_xray](images/seasonal_vaccine_proportion.png)
