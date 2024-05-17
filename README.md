@@ -20,4 +20,4 @@ Utilizing and iterating through deep neural networks to find the most accurate m
 
 ![normal_chest_xray](images/normal_chest_xray.png)
 
-![pneumonia_chest_xray](images/seasonal_vaccine_proportion.png)
+![pneumonia_chest_xray](images/pneumonia_chest_xray.png)
