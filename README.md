@@ -21,3 +21,13 @@ Utilizing and iterating through deep neural networks to find the most accurate m
 ![normal_chest_xray](images/normal_chest_xray.png)
 
 ![pneumonia_chest_xray](images/pneumonia_chest_xray.png)
+
+## Evaluation
+
+CNN model is the best model with an accuracy score of about 76%
+
+![lime](images/normal_chest_xray.png)
+
+## Conclusion
+
+The best and final model we found based on accuracy score was our Convolutional Neural Network (CNN) model. This model has an accuracy score of about 76%. We would recommend that the hospital use this model to feed chest x-rays so that a radiologist can use the model's prediction to help determine a diagnosis of pneumonia or not.
