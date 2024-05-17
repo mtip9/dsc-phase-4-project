@@ -26,7 +26,7 @@ Utilizing and iterating through deep neural networks to find the most accurate m
 
 CNN model is the best model with an accuracy score of about 76%
 
-![lime](images/normal_chest_xray.png)
+![lime](images/lime.png)
 
 ## Conclusion
 
