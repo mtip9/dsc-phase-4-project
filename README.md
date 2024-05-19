@@ -14,6 +14,8 @@ A hospital wants to reduce the amount of time spent reviewing chest x-ray images
 
 The data used in this project comes from the Guangzhou Women and Children's Medical Center (Kermany et al.). The chest x-ray images comes from pediatric patients between the ages of one to five years old who underwent chest x-ray imaging as part of their routine clinical workup. The images provided are anterior-posterior views of the chest. A total of three expert physicians graded these images to confirm the diagnoses of pneumonia or not to be cleared to use for model training.
 
+See the full dataset in [chest_x_ray](chest_x_ray) 
+
 ## Modeling
 
 Utilizing and iterating through deep neural networks to find the most accurate model.
