@@ -32,9 +32,11 @@ Utilizing and iterating through deep neural networks to find the most accurate m
 
 CNN model is the best model with an accuracy score of about 76.5%
 
-![confusion_matrix](images/lime.png)
+![confusion_matrix](images/confusion_matrix.png)
 
 ![lime](images/lime.png)
+
+We can use LIME to help us interpret the model's results. LIME (Local Interpretable Model-agnostic Explanations) is used as an explanation of the model in how it reads and digests the image to make its decision. In the image above, we can see that the model is looking at the part of the image within the yellow outline to show us where the model sees pneumonia within the lungs and therefore classifies the image as having pneumonia. LIME is also helpful to us as it can be used help a radiologist make a diagnosis faster by viewing the outlined part of the chest x-ray and help make a diagnosis.
 
 ## Conclusion
 
