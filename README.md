@@ -34,6 +34,8 @@ CNN model is the best model with an accuracy score of about 76.5%
 
 ![confusion_matrix](images/confusion_matrix.png)
 
+False positives are the most detrimental to our model. A false positive in this instance is where our model categorizes a chest x-ray image has having pneumonia when in reality the lungs are normal and healthy. This is an issue with misdiagnosis of a patient. Our confusion matrix shows us that there are 145 false positives.
+
 ![lime](images/lime.png)
 
 We can use LIME to help us interpret the model's results. LIME (Local Interpretable Model-agnostic Explanations) is used as an explanation of the model in how it reads and digests the image to make its decision. In the image above, we can see that the model is looking at the part of the image within the yellow outline to show us where the model sees pneumonia within the lungs and therefore classifies the image as having pneumonia. LIME is also helpful to us as it can be used help a radiologist make a diagnosis faster by viewing the outlined part of the chest x-ray and help make a diagnosis.
