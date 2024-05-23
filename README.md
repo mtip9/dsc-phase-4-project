@@ -18,7 +18,7 @@ The data used in this project comes from the Guangzhou Women and Children's Medi
 
 See the full dataset in [chest_x_ray](chest_x_ray) 
 
-![normal_vs_pneumonia_count](images/normal_chest_xray.png)
+![normal_vs_pneumonia_count](images/normal_vs_pneumonia_count.png)
 
 ## Modeling
 
@@ -30,13 +30,15 @@ Utilizing and iterating through deep neural networks to find the most accurate m
 
 ## Evaluation
 
-CNN model is the best model with an accuracy score of about 76%
+CNN model is the best model with an accuracy score of about 76.5%
+
+![confusion_matrix](images/lime.png)
 
 ![lime](images/lime.png)
 
 ## Conclusion
 
-The best and final model we found based on accuracy score was our Convolutional Neural Network (CNN) model. This model has an accuracy score of about 76%. We would recommend that the hospital use this model to feed chest x-rays so that a radiologist can use the model's prediction to help determine a diagnosis of pneumonia or not.
+The best and final model we found based on accuracy score was our Convolutional Neural Network (CNN) model. This model has an accuracy score of about 76.5%. We would recommend that the hospital use this model to feed chest x-rays so that a radiologist can use the model's prediction to help determine a diagnosis of pneumonia or not. We would also recommend that the radiologist use LIME to aid diagnosis assistance by making more accurate and quicker diagnoses using LIME outlines.
 
 ## For More Information
 
